@@ -1,0 +1,6 @@
+https://github.com/oswaldoludwig/Adversarial-Learning-for-Generative-Conversational-Agents.git
+https://github.com/tensorlayer/seq2seq-chatbot.git
+https://github.com/dennybritz/chatbot-retrieval.git
+https://github.com/marekrei/convertvec
+https://github.com/tensorflow/models
+https://github.com/oswaldoludwig/Seq2seq-Chatbot-for-Keras.git
